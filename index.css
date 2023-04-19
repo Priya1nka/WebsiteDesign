@@ -1,0 +1,126 @@
+
+.con1 {
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-image: url(./images/cloud.png) , linear-gradient(to right, rgb(250,128,114), rgb(255,128, 100));
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: bottom right, left, right; 
+  }
+  ul li a{
+    color: white;
+    font-size: large;
+  }
+
+  .con2{
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+  }
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:80px;
+}
+.img1{
+    margin-left: 20px;
+    
+}
+.vl{
+    border-left: 1px solid white;
+    height: 200px;
+    margin-top:20px;
+}
+h2{
+    color: white;
+    margin-left:5px;
+}
+.para1{
+    color: white;
+    margin-left: 5px;
+    animation-duration: 20s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 50%;
+      width: 50%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 400px;
+    }
+  }
+
+.ep1{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 200px;
+    margin-left: 10px;
+    text-align: center;
+}
+.con3{
+    height:100%;
+        width: 100%;
+        background-image: url(./images/img5.jpeg);
+        background-position: center; 
+        background-repeat: no-repeat; 
+        background-size: cover; 
+  
+}
+h4{
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+    
+}
+h3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+.para2{
+    color: white;
+    padding: 20px 100px 0px 20px;
+    text-align: center;
+}
+.ep2{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 200px;
+    margin:50px;
+    text-align: center;
+}
+.con4{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+h6{
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.d1{
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 300px;
+
+}
+.d5{
+    margin-top: 100px;
+}
